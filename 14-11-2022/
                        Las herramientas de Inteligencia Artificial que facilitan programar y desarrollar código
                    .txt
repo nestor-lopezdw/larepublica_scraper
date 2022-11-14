@@ -1,0 +1,11 @@
+
+                        Las herramientas de Inteligencia Artificial que facilitan programar y desarrollar código
+                    
+
+Algunas de las IA para programar más famosas son Copilot de GitHub, Codex de Microsoft, Polycoder, CodeT5, Tabnine y Cogram
+
+La Inteligencia Artificial (IA), es una de las nuevas tecnologías que está permeando el mundo empresarial y a las tareas que realizan las personas. Hasta el mismo desarrollo de software no se escapa, pues empiezan a surgir tecnologías que usan esta herramienta para automatizar los procesos de programación, proceso conocido como AI for Code.
+Un ejemplo es GitHub, un repositorio de código que junto con la empresa OpenAI y su tecnología GPT-3 desarrollaron la herramienta Copilot, la cual ayuda a desarrolladores de software sugiriendo código al momento de programar en lenguajes como JavaScript o Python.
+Otro sistema de IA que desarrolla código es Codex, que también creo OpenAI junto con Microsoft. “Es una forma diferente de pensar el desarrollo de la que hemos tenido”, dijo
+También hay otras herramientas de IA para programar como Polycoder, CodeT5, Tabnine y Cogram.
+La pregunta que aparece es si estas IA transformarán el mundo de la programación y podrán reemplazar a los programadores. Sobre esto, el CEO de Platzi, Freddy Vega, señaló que la IA sí podría reemplazar el trabajo que hacen los desarrolladores junior. “No significa que la programación vaya a terminar, lo que le va a pasar a esta industria es que se va a transformar como le ha pasado a otras ”, dijo.

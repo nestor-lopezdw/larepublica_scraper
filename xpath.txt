@@ -1,0 +1,5 @@
+Links = //text-fill[not(@class)]/a/@href  # en .map(x => x.value) se usa value por ser un atributo
+Título = //div[@class="mb-auto"]/h2/span/text()
+Resumen = //div[@class="lead"]/p/text()
+Cuerpo = /div[@class="html-content"]/p[not(@class)]/text()
+
